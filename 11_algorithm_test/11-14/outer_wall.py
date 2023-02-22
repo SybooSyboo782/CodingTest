@@ -1,4 +1,4 @@
-# https://programmers.co.kr/learn/courses/30/lessons/42891?language=python3
+# https://programmers.co.kr/learn/courses/30/lessons/60062
 # 이 코드는 프로그래머스 사이트에서 테스트해야 작동한다.
 
 from itertools import permutations
