@@ -21,5 +21,8 @@
 ## 시간과 메모리 측정
 - 파이썬에서는 프로그램 수행시간과 메모리 사용량을 측정할 수 있다.
 - 실제 프로그램의 수행시간을 측정하는 것은 알고리즘의 효율성을 측정하는 가장 기본적인 방법이다.
-
+---
+## 공부 중인 것 
+- [프로그래머스 코딩테스트](https://school.programmers.co.kr/learn/)
+---
 # [참고문헌](https://github.com/SybooSyboo782/CodingTest/wiki/%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C)
